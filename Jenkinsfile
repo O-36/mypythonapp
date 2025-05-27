@@ -84,7 +84,7 @@ pipeline {
  
         success {
  
-            echo 'Pipeline executed successfully! Hooray! 
+            echo 'Pipeline executed successfully! Hooray!' 
  
         }
  
